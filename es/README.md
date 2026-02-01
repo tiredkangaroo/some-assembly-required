@@ -3,11 +3,11 @@
 ### Una introducción accesible al assembly.
 
 <p align="center">
-  <img width="375" src="https://cloud-1b2fvx8fc-hack-club-bot.vercel.app/0cover.png">
+  <img width="375" src="https://cdn.hackclub.com/019c1b70-326c-79eb-9d2d-2eb4fb7fdaad/image.png">
 </p>
 <br />
 
-Desde siempre, he querido intentar escribir assembly, aunque sea solo para entender por qué el [creador de Rollercoaster Tycoon escribiría el 99% del juego](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)#:~:text=Sawyer%20wrote%2099%25%20of%20the,%2C%20rendering%2C%20and%20paint%20programs.) en él. Honestamente, incluso después de todo esto, todavía no entiendo por qué hizo eso.
+Desde siempre, he querido intentar escribir assembly, aunque sea solo para entender por qué el [creador de Rollercoaster Tycoon escribiría el 99% del juego](<https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)#:~:text=Sawyer%20wrote%2099%25%20of%20the,%2C%20rendering%2C%20and%20paint%20programs.>) en él. Honestamente, incluso después de todo esto, todavía no entiendo por qué hizo eso.
 
 Al embarcarme en esta búsqueda, rápidamente encontré muchos recursos dispersos y difíciles de entender. Fue necesario compilar un montón de materiales diferentes para llegar a un alto nivel de comprensión de lo que está sucediendo en mi computadora.
 
@@ -35,7 +35,7 @@ Finalizar esta guía toma tan solo **30 minutos**, pero también puedes llegar a
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Hecho con amor por Hack Club
   </a>
 </p>

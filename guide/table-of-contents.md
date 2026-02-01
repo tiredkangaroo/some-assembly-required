@@ -2,9 +2,9 @@
 
 1. [Introduction](/guide/introduction.md)
 1. [The CPU](/guide/cpu/cpu.md)
-2. [Writing Code](/guide/writing-code/multitude.md)
-3. [The Math Section](/guide/math/number-systems.md)
-4. [Resources](/guide/resources.md)
+1. [Writing Code](/guide/writing-code/multitude.md)
+1. [The Math Section](/guide/math/number-systems.md)
+1. [Resources](/guide/resources.md)
 
 ## Working code examples
 
@@ -24,8 +24,8 @@
 
 <a href="https://github.com/hackclub/some-assembly-required">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Made with love by Hack Club
   </a>
 </p>

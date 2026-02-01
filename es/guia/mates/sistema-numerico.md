@@ -23,6 +23,7 @@ Pero en realidad, los números en los que tú y yo pensamos (1, 2, 3, etc.) son 
 La base 10, también conocida como decimal, es algo que se denomina sistema numérico. La forma más común de referirnos a los números es en base 10, y significa que tenemos 10 dígitos que podemos utilizar para representar cualquier número.
 
 Esos dígitos son del 0 al 9. ¿Qué ocurre cuando nos quedamos sin dígitos? Nos desplazamos 1 posición a la izquierda y volvemos a empezar. Por ejemplo:
+
 ```js
   0
   1
@@ -59,14 +60,14 @@ Es útil ser capaz de decodificar binario cuando estamos hablando a un nivel tan
 Como ya sabemos con el binario, sólo hay dos dígitos representados: **0** y **1**. Lo bueno de las bases numéricas es que todas funcionan igual. Una vez que nos quedamos sin dígitos, nos desplazamos un lugar. Así que vamos a probarlo:
 
 ```js
-  0 // 0
-  1 // 1
- 10 // 2 - Fijate que nos desplazamos 1 posición
- 11 // 3
-100 // 4 - Fijate que nos desplazamos 1 posición
-101 // 5
-110 // 6 - Como nos quedamos sin dígitos en el lugar de los "unos", incrementamos el lugar de los "dos" y empezamos de nuevo ellugar de los "unos".
-111 // 7
+0; // 0
+1; // 1
+10; // 2 - Fijate que nos desplazamos 1 posición
+11; // 3
+100; // 4 - Fijate que nos desplazamos 1 posición
+101; // 5
+110; // 6 - Como nos quedamos sin dígitos en el lugar de los "unos", incrementamos el lugar de los "dos" y empezamos de nuevo ellugar de los "unos".
+111; // 7
 ```
 
 <details>
@@ -112,6 +113,7 @@ Como recordatorio, estamos calculando de derecha a izquierda.
 
 Así que `1011001` es 89 en base 10.
 </i>
+
 </details>
 
 ¡Enhorabuena, sabelotodo! Oficialmente sabes leer en binario.
@@ -137,22 +139,22 @@ _Ey ey ey. Espera un momento. ¿Por qué hay letras?_
 Bueno, tenemos que recordar - nuestra base es 16. Eso significa que tenemos 16 dígitos para representar nuestros números. Esos dígitos son:
 
 ```js
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-A // 10 - En base 10, tendríamos que cambiar porque nos quedamos sin dígitos. En base 16, ¡tenemos más dígitos para usar!
-B // 11
-C // 12
-D // 13
-E // 14
-F // 15
+0;
+1;
+2;
+3;
+4;
+5;
+6;
+7;
+8;
+9;
+A; // 10 - En base 10, tendríamos que cambiar porque nos quedamos sin dígitos. En base 16, ¡tenemos más dígitos para usar!
+B; // 11
+C; // 12
+D; // 13
+E; // 14
+F; // 15
 ```
 
 Así que esas letras corresponden a números.
@@ -238,6 +240,7 @@ Nuestro número es $B1$.
 
 Así que `B1` es 177 en base 10.
 </i>
+
 </details>
 
 ---
@@ -254,8 +257,8 @@ Para más información sobre el sistema numérico, visita [este sitio](https://w
 
 <a href="/guide/writing-code/uppercaser.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -273,7 +276,7 @@ Para más información sobre el sistema numérico, visita [este sitio](https://w
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Hecho con amor por Hack Club
   </a>
 </p>

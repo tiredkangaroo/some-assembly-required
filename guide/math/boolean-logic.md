@@ -27,13 +27,12 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 `AND` is always false unless both inputs are true.
 
-
-| In | Out |
-| -- | --- |
-| 00 | 0   |
-| 10 | 0   |
-| 01 | 0   |
-| 11 | 1   |
+| In  | Out |
+| --- | --- |
+| 00  | 0   |
+| 10  | 0   |
+| 01  | 0   |
+| 11  | 1   |
 
 ## OR
 
@@ -41,13 +40,12 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 `OR` is always true unless both of the inputs are false.
 
-
-| In | Out |
-| -- | --- |
-| 00 | 0   |
-| 10 | 1   |
-| 01 | 1   |
-| 11 | 1   |
+| In  | Out |
+| --- | --- |
+| 00  | 0   |
+| 10  | 1   |
+| 01  | 1   |
+| 11  | 1   |
 
 ## NOT
 
@@ -55,11 +53,10 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 `NOT` only requires a single input, and it flips the input.
 
-
-| In | Out |
-| -- | --- |
-| 0  | 1   |
-| 1  | 0   |
+| In  | Out |
+| --- | --- |
+| 0   | 1   |
+| 1   | 0   |
 
 ## NAND
 
@@ -67,13 +64,12 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 `NAND` is always true unless both inputs are true. `NAND` is the opposite of `AND`.
 
-
-| In | Out |
-| -- | --- |
-| 00 | 1   |
-| 10 | 1   |
-| 01 | 1   |
-| 11 | 0   |
+| In  | Out |
+| --- | --- |
+| 00  | 1   |
+| 10  | 1   |
+| 01  | 1   |
+| 11  | 0   |
 
 <br />
 
@@ -95,13 +91,12 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 `NOR` is always false unless both inputs are false. `NOR` is the opposite of `OR`.
 
-
-| In | Out |
-| -- | --- |
-| 00 | 1   |
-| 10 | 0   |
-| 01 | 0   |
-| 11 | 0   |
+| In  | Out |
+| --- | --- |
+| 00  | 1   |
+| 10  | 0   |
+| 01  | 0   |
+| 11  | 0   |
 
 ## XOR
 
@@ -109,13 +104,12 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 `XOR` is true if the inputs are different, false if they're the same.
 
-
-| In | Out |
-| -- | --- |
-| 00 | 0   |
-| 10 | 1   |
-| 01 | 1   |
-| 11 | 0   |
+| In  | Out |
+| --- | --- |
+| 00  | 0   |
+| 10  | 1   |
+| 01  | 1   |
+| 11  | 0   |
 
 ## XNOR
 
@@ -123,13 +117,12 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 `XNOR` is true if the inputs are the same, false if they're different. `XNOR` is the opposite of `XOR`.
 
-
-| In | Out |
-| -- | --- |
-| 00 | 1   |
-| 10 | 0   |
-| 01 | 0   |
-| 11 | 1   |
+| In  | Out |
+| --- | --- |
+| 00  | 1   |
+| 10  | 0   |
+| 01  | 0   |
+| 11  | 1   |
 
 ## Adding Numbers
 
@@ -155,8 +148,8 @@ Now, this is a diagram that I myself don't fully understand, but what it represe
 
 <a href="/guide/math/number-systems.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -174,7 +167,7 @@ Now, this is a diagram that I myself don't fully understand, but what it represe
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Made with love by Hack Club
   </a>
 </p>

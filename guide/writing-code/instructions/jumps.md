@@ -14,7 +14,7 @@ For example, let's say we're running an assembly program that has an instruction
 
 Like everything in assembly, the actual process of incrementing the instruction pointer is a little complicated and depends on the processor, so we're going to fictionalize a high level example of how this works.
 
-Let's say for a  64-bit machine, each instruction ends up being 8 bytes (64 bits / 8 bits per byte = 8 bytes), and each memory address represents a byte of data. That would mean that each time an instruction finishes, the instruction pointer adds 8 to itself.
+Let's say for a 64-bit machine, each instruction ends up being 8 bytes (64 bits / 8 bits per byte = 8 bytes), and each memory address represents a byte of data. That would mean that each time an instruction finishes, the instruction pointer adds 8 to itself.
 
 So let's say our first instruction is at memory address `0x00000001`. If we incremented to `0x00000002`, that would be **1 byte** of data, or **8 bits**. If we want to increment by an instruction's amount of data (**8 bytes**), we'd increment to `0x00000009`, since that's 8 bytes after `0x00000001`.
 
@@ -64,8 +64,8 @@ As a note, memory addresses are in <a href="/guide/math/number-systems.md">hexad
 
 <a href="/guide/writing-code/instructions/math.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -83,7 +83,7 @@ As a note, memory addresses are in <a href="/guide/math/number-systems.md">hexad
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Made with love by Hack Club
   </a>
 </p>

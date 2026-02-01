@@ -5,9 +5,10 @@ Often in programming, we need to execute the same code over a set of values, or 
 This is best explained with an example. Like, what if we wanted to calculate the amount of possible numbers we could store in a **byte**?
 
 As a reminder:
-  - a bit has 2 possibilities, `1` or `0`
-  - a byte is 8 bits
-  - given that, $2^8$ is the number of possibilities you can store in a byte
+
+- a bit has 2 possibilities, `1` or `0`
+- a byte is 8 bits
+- given that, $2^8$ is the number of possibilities you can store in a byte
 
 So what would that look like in JavaScript?
 
@@ -18,7 +19,7 @@ const exponent = 8;
 let result = 1; // since our counter is starting at 0, we start our result at 2^0, which is 1
 
 for (let counter = 0; counter < exponent; counter++) {
-  result *= base
+  result *= base;
 }
 ```
 
@@ -69,8 +70,8 @@ Now we `cmp` compare our `rdx` counter with our `rax` exponent, which in the Jav
 
 <a href="/guide/writing-code/instructions/conditionals.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -88,7 +89,7 @@ Now we `cmp` compare our `rdx` counter with our `rax` exponent, which in the Jav
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Made with love by Hack Club
   </a>
 </p>

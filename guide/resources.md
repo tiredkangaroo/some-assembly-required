@@ -3,6 +3,7 @@
 ## CPU Architecture
 
 ### Intel's CPU architecture videos
+
 - Part 1: https://www.youtube.com/watch?v=vgPFzblBh7w
 - Part 2: https://www.youtube.com/watch?v=o_WXTRS2qTY
 
@@ -23,36 +24,42 @@
 ## X86-64
 
 ### The "Getting Started Writing Assembly Language" series
-  - https://blog.devgenius.io/getting-started-writing-assembly-language-8ecc116f3627
-  - https://blog.devgenius.io/finding-an-efficient-development-cycle-for-writing-assembly-language-be2092e6db6a
-  - https://blog.devgenius.io/writing-an-x86-64-assembly-language-program-648b6005e8e
+
+- https://blog.devgenius.io/getting-started-writing-assembly-language-8ecc116f3627
+- https://blog.devgenius.io/finding-an-efficient-development-cycle-for-writing-assembly-language-be2092e6db6a
+- https://blog.devgenius.io/writing-an-x86-64-assembly-language-program-648b6005e8e
 
 ### GNU Assembler
-  - https://cs.lmu.edu/~ray/notes/gasexamples/
+
+- https://cs.lmu.edu/~ray/notes/gasexamples/
 
 ### Guides
-  - https://cs61.seas.harvard.edu/site/2018/Asm1/
-  - https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture
-  - https://github.com/0xAX/asm
-  - https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/guide/x86-64.html
+
+- https://cs61.seas.harvard.edu/site/2018/Asm1/
+- https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture
+- https://github.com/0xAX/asm
+- https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/guide/x86-64.html
 
 ### Hello World
-  - https://gist.github.com/FiloSottile/7125822
-  - https://death-of-rats.github.io/posts/yasm-hello-world/
-  - https://dev.to/tomassirio/hello-world-in-asm-x8664-jg7
-  - https://jameshfisher.com/2018/03/10/linux-assembly-hello-world/
-  - https://cs.lmu.edu/~ray/notes/nasmtutorial/
-  - https://0xax.github.io/asm_1/
-  - https://rderik.com/blog/let-s-write-some-assembly-code-in-macos-for-intel-x86-64/
+
+- https://gist.github.com/FiloSottile/7125822
+- https://death-of-rats.github.io/posts/yasm-hello-world/
+- https://dev.to/tomassirio/hello-world-in-asm-x8664-jg7
+- https://jameshfisher.com/2018/03/10/linux-assembly-hello-world/
+- https://cs.lmu.edu/~ray/notes/nasmtutorial/
+- https://0xax.github.io/asm_1/
+- https://rderik.com/blog/let-s-write-some-assembly-code-in-macos-for-intel-x86-64/
 
 ### Command line params
-  - https://www.dreamincode.net/forums/topic/285550-nasm-linux-getting-command-line-parameters/
-  - https://stackoverflow.com/questions/53555298/how-to-get-arguments-from-the-command-lineassembly-nasm-ubuntu-32bit
+
+- https://www.dreamincode.net/forums/topic/285550-nasm-linux-getting-command-line-parameters/
+- https://stackoverflow.com/questions/53555298/how-to-get-arguments-from-the-command-lineassembly-nasm-ubuntu-32bit
 
 ### Syscalls
-  - https://filippo.io/making-system-calls-from-assembly-in-mac-os-x/
-  - http://dustin.schultz.io/mac-os-x-64-bit-assembly-system-calls.html
-  - https://filippo.io/linux-syscall-table/
+
+- https://filippo.io/making-system-calls-from-assembly-in-mac-os-x/
+- http://dustin.schultz.io/mac-os-x-64-bit-assembly-system-calls.html
+- https://filippo.io/linux-syscall-table/
 
 ## Debugger
 
@@ -93,8 +100,8 @@
 
 <a href="/guide/conclusion.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -112,7 +119,7 @@
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Made with love by Hack Club
   </a>
 </p>

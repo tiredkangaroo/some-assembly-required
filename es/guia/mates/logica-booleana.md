@@ -28,11 +28,11 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 `AND` es siempre falso a menos que ambas entradas sean verdaderas.
 
 | Entrada | Salida |
-| -- | --- |
-| 00 | 0   |
-| 10 | 0   |
-| 01 | 0   |
-| 11 | 1   |
+| ------- | ------ |
+| 00      | 0      |
+| 10      | 0      |
+| 01      | 0      |
+| 11      | 1      |
 
 ## OR
 
@@ -41,11 +41,11 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 `OR` es siempre verdadero a menos que ambas entradas sean falsas.
 
 | Entrada | Salida |
-| -- | --- |
-| 00 | 0   |
-| 10 | 1   |
-| 01 | 1   |
-| 11 | 1   |
+| ------- | ------ |
+| 00      | 0      |
+| 10      | 1      |
+| 01      | 1      |
+| 11      | 1      |
 
 ## NOT
 
@@ -54,9 +54,9 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 `NOT` sólo requiere una única entrada, y la invierte.
 
 | Entrada | Salida |
-| -- | --- |
-| 0  | 1   |
-| 1  | 0   |
+| ------- | ------ |
+| 0       | 1      |
+| 1       | 0      |
 
 ## NAND
 
@@ -65,11 +65,11 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 `NAND` siempre es verdadero a menos que ambas entradas sean verdaderas. `NAND` es lo contrario de `AND`.
 
 | Entrada | Salida |
-| -- | --- |
-| 00 | 1   |
-| 10 | 1   |
-| 01 | 1   |
-| 11 | 0   |
+| ------- | ------ |
+| 00      | 1      |
+| 10      | 1      |
+| 01      | 1      |
+| 11      | 0      |
 
 <br />
 
@@ -80,6 +80,7 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 > Un dato curioso: sólo necesitas la puerta NAND (puerta AND seguida de NOT) para hacer todas las operaciones lógicas posibles.
 >
 > Esto significa que todos los circuitos lógicos posibles se pueden hacer usando sólo NAND. De hecho, un transistor NAND físico ocupa menos área que un transistor AND. Para hacer un AND, tendrías que hacer un NAND e invertir la salida. Echa un vistazo al curso gratuito [De Nand2 a Tetris](https://www.nand2tetris.org/) para construir un sistema informático completo utilizando sólo estos principios.
+
 ---
 
 <br />
@@ -90,13 +91,12 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 
 `NOR`es siempre falso a menos que ambas entradas sean falsas. `NOR` es lo contrario de `OR`.
 
-
 | Entrada | Salida |
-| -- | --- |
-| 00 | 1   |
-| 10 | 0   |
-| 01 | 0   |
-| 11 | 0   |
+| ------- | ------ |
+| 00      | 1      |
+| 10      | 0      |
+| 01      | 0      |
+| 11      | 0      |
 
 ## XOR
 
@@ -104,13 +104,12 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 
 `XOR` es verdadero si las entradas son diferentes, falso si son iguales.
 
-
 | Entrada | Salida |
-| -- | --- |
-| 00 | 0   |
-| 10 | 1   |
-| 01 | 1   |
-| 11 | 0   |
+| ------- | ------ |
+| 00      | 0      |
+| 10      | 1      |
+| 01      | 1      |
+| 11      | 0      |
 
 ## XNOR
 
@@ -118,13 +117,12 @@ Esta imagen es una representación de una puerta lógica <code>AND</code>, donde
 
 `XNOR` es verdadero si las entradas son iguales, falso si son diferentes. `XNOR` es lo contrario de `XOR`.
 
-
 | Entrada | Salida |
-| -- | --- |
-| 00 | 1   |
-| 10 | 0   |
-| 01 | 0   |
-| 11 | 1   |
+| ------- | ------ |
+| 00      | 1      |
+| 10      | 0      |
+| 01      | 0      |
+| 11      | 1      |
 
 ## Suma de números
 
@@ -150,8 +148,8 @@ Ahora, este es un diagrama que yo mismo no entiendo completamente, pero lo que r
 
 <a href="sistema-numerico.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -169,7 +167,7 @@ Ahora, este es un diagrama que yo mismo no entiendo completamente, pero lo que r
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Hecho con amor por Hack Club
   </a>
 </p>

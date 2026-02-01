@@ -69,6 +69,7 @@ Each CPU has a set of instructions that is built _physically into the chip_, whi
 The first part of the data it fetches is the **opcode**, which is the unique identifier for an action that the CPU can run. In the case of adding two numbers together, that opcode might look like `add`.
 
 The next numbers that are fetched are the arguments to be executed. For a hypothetical example, let's say we have an instruction like:
+
 ```asm
 add 3, 4
 ```
@@ -87,8 +88,8 @@ If the instruction is arithmetic (like adding or subtracting) or logical (like c
 
 <a href="/guide/cpu/communicating.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
-    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
@@ -106,7 +107,7 @@ If the instruction is arithmetic (like adding or subtracting) or logical (like c
 
 <p align="center">
   <a href="https://hackclub.com/">
-    <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
+    <img width="35" src="https://cdn.hackclub.com/019c1b71-2582-7e9c-9125-3792c8a88142/image.png"><br/>
     Made with love by Hack Club
   </a>
 </p>
