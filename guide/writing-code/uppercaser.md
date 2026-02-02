@@ -6,7 +6,7 @@ It's the first program I've written in assembly that actually does something (ot
 
 <p align="center">
   <br />
-  <img src="https://cloud-b8fumzsy2-hack-club-bot.vercel.app/0uppercaser.png">
+  <img src="https://cdn.hackclub.com/019c1eba-edb0-78b6-89af-349896d76df1/image.png">
   <br />
   <span>
     <em>

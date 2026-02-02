@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <img height="250" src="https://cloud-kg18p3n25-hack-club-bot.vercel.app/0multitude.png">
+  <img height="250" src="https://cdn.hackclub.com/019c1e52-462f-7132-9662-84c78b17e453/image.png">
 </p>
 <br />
 
@@ -46,7 +46,7 @@ Given that the processor on my MacBook Pro is an Intel X86 64 bit processor, I w
 
 <p align="center">
   <br />
-  <img width="250" src="https://cloud-asomlih8p-hack-club-bot.vercel.app/0toolbox.png" />
+  <img width="250" src="https://cdn.hackclub.com/019c1e52-ee7c-749a-aa14-35eb9bfe48cb/image.png" />
 </p>
 
 <br />

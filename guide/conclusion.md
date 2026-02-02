@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <img height="375" src="https://cloud-6oyb9m7up-hack-club-bot.vercel.app/0yay.png">
+  <img height="375" src="https://cdn.hackclub.com/019c1bff-c4af-731d-a25f-92a3bee5246d/image.png">
 </p>
 <br />
 

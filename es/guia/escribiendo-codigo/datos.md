@@ -6,7 +6,7 @@ Una unidad de datos, que es sólo un 1 o un 0, se llama **bit**.
 
 <p align="center">
   <br />
-  <img height="150" src="https://cloud-1csdtyu7d-hack-club-bot.vercel.app/0bit.png">
+  <img height="150" src="https://cdn.hackclub.com/019c1e4d-e7b8-71d3-94fb-3af451a0550d/image.png">
 </p>
 <br />
 
@@ -28,7 +28,7 @@ Esto tiene que ver con el hecho de que cada letra está representada por un núm
 
 <p align="center">
   <br />
-  <img height="500" src="https://cloud-m6tqomah2-hack-club-bot.vercel.app/0ascii.png">
+  <img height="500" src="https://cdn.hackclub.com/019c1e4f-6d75-7f4d-bdb2-b1c5708443e0/image.png">
   <br />
   <br />
   <span>

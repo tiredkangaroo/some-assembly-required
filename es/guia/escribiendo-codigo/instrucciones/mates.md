@@ -120,7 +120,7 @@ Ahora que ya sabemos algo de matemáticas básicas, ¡intentemos representar una
 
 <p align="center">
   <br />
-  <img height="200" src="https://cloud-jnidfb52p-hack-club-bot.vercel.app/0graph.png">
+  <img height="200" src="https://cdn.hackclub.com/019c1ebe-c2df-7106-9b2f-081fb16d4c5a/image.png">
   <br />
 </p>
 <p align="center">

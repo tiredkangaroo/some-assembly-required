@@ -8,7 +8,7 @@ Aquí hablaremos de los registros del **x86-64**, pero los conceptos se aplican 
 
 <p align="center">
   <br />
-  <img src="https://cloud-957sbc0qw-hack-club-bot.vercel.app/0registers.png">
+  <img src="https://cdn.hackclub.com/019c1ebb-cc4f-70a5-9198-7f0cb3a56ae1/image.png">
   <br />
   <span>
     <em>Registros utilizados habitualmente</em>

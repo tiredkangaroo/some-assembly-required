@@ -8,7 +8,7 @@ We'll be talking about the **x86-64** registers here, but the concepts apply to 
 
 <p align="center">
   <br />
-  <img src="https://cloud-957sbc0qw-hack-club-bot.vercel.app/0registers.png">
+  <img src="https://cdn.hackclub.com/019c1ebb-cc4f-70a5-9198-7f0cb3a56ae1/image.png">
   <br />
   <span>
     <em>Commonly used registers</em>
