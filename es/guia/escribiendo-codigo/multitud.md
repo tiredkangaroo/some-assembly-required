@@ -46,7 +46,7 @@ Dado que el procesador de mi MacBook Pro es un procesador Intel X86 de 64 bits, 
 
 <p align="center">
   <br />
-  <img width="250" src="https://cloud-asomlih8p-hack-club-bot.vercel.app/0toolbox.png" />
+  <img width="250" src="https://cdn.hackclub.com/019c1e52-ee7c-749a-aa14-35eb9bfe48cb/image.png" />
 </p>
 
 <br />

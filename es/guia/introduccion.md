@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <img width="375" src="https://cloud-a2erelxdf-hack-club-bot.vercel.app/0computer.png" />
+  <img width="375" src="https://cdn.hackclub.com/019c1b70-326c-79eb-9d2d-2eb4fb7fdaad/image.png" />
 </p>
 
 Puede sonar contradictorio, pero los ordenadores no son muy listos. Sé que estarás negando con la cabeza, insistiendo en que mi afirmación no puede ser cierta, pero te prometo que literalmente todo lo que hace tu ordenador puede representarse con sólo dos valores: **0** y **1**.
@@ -23,7 +23,7 @@ A menudo [escribes directamente en Assembly](https://www.youtube.com/watch?v=rX0
 
 <p align="center">
   <br />
-  <img width="460" height="300" src="https://cloud-ck0ojs3qv-hack-club-bot.vercel.app/0image.png">
+  <img width="460" height="300" src="https://cdn.hackclub.com/019c1b80-8c78-7a7c-97ee-108395e49d70/image.png">
   <br />
   <span>
     <em>

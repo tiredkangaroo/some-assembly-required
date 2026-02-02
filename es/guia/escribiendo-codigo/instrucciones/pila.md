@@ -9,7 +9,7 @@ Los ordenadores asignan un trozo de memoria para que sea la «pila», un lugar d
 
 <p align="center">
   <br />
-  <img height="375" src="https://cloud-ded5b376v-hack-club-bot.vercel.app/0stack.png">
+  <img height="375" src="https://cdn.hackclub.com/019c1f07-3625-7f15-8d51-e1839d6da310/image.png">
   <br />
   <span>
     <em>
