@@ -44,7 +44,6 @@ To run [our RISC-V code](/code/riscv/riscv.s), you can paste the file contents i
 <br />
 
 ## Resources
-
 _Here are some resources I ended up using while writing the program in this section._
 
 - https://medium.com/swlh/risc-v-assembly-for-beginners-387c6cd02c49
