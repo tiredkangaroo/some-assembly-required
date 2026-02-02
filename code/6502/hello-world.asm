@@ -5,7 +5,7 @@
 ; Assembler used: ACME
 ; Platform architecture: Commodore 64 VICE Emulator
 ; OS architecture: C64
- 
+
 ;==========================================================
 ; BASIC header
 ;==========================================================
