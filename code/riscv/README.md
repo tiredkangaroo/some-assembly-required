@@ -20,7 +20,7 @@ To run [our RISC-V code](/code/riscv/riscv.s), you can paste the file contents i
 
 <p align="center">
   <br />
-  <img src="https://cloud-b9zmt6j4g-hack-club-bot.vercel.app/0frame_20.png">
+  <img src="https://cdn.hackclub.com/019c2069-c2c7-79f1-b1b1-0b9a26147d24/image.png">
   <br />
   <span>
     <em>
@@ -33,7 +33,7 @@ To run [our RISC-V code](/code/riscv/riscv.s), you can paste the file contents i
 
 <p align="center">
   <br />
-  <img src="https://cloud-3wcgo2ul0-hack-club-bot.vercel.app/0screen_shot_2022-06-01_at_2.03.52_pm.png">
+  <img src="https://cdn.hackclub.com/019c206b-1156-7bad-886d-06518e124199/image.png">
   <br />
   <span>
     <em>
@@ -44,6 +44,7 @@ To run [our RISC-V code](/code/riscv/riscv.s), you can paste the file contents i
 <br />
 
 ## Resources
+
 _Here are some resources I ended up using while writing the program in this section._
 
 - https://medium.com/swlh/risc-v-assembly-for-beginners-387c6cd02c49

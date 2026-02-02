@@ -26,11 +26,13 @@ If you have [Homebrew](https://brew.sh/) installed, you can download the [yasm p
 We will use the [Hello World](/code/x86-intel/hello-world/hello-world-mac.asm) program as our example for this, but you will see the same steps for the [Uppercaser](/code/x86-intel/uppercaser/uppercaser-mac.asm) program.
 
 For a Mac (both Intel and Apple Silicon), these are the instructions to compile and run the code. We have 3 steps to run our program:
+
 1. Assemble it into an object file
 1. Generate our executable
 1. Run our executable
 
 ### 1. Assemble our program into an object file
+
 ```
 $ yasm -f macho64 hello-world.asm
 ```
@@ -39,8 +41,8 @@ This whole command creates an object file, which is machine code. You can view i
 
 `yasm` is our assembler, `-f` flag is to specify our file format. `macho64` is our file format, used for Mac executables.
 
-
 ### 2. Generate our executable
+
 ```
 $ ld hello-world.o -o hello-world -macosx_version_min 12.4 -L /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib -lSystem -no_pie
 ```
@@ -48,6 +50,7 @@ $ ld hello-world.o -o hello-world -macosx_version_min 12.4 -L /Library/Developer
 This generates our executable by linking our object file to any libraries it needs. It bundles everything together into machine code, `-o` lets us specify what we want our executable to be called.
 
 ### 3. Run our executable
+
 ```
 $ ./hello-world
 ```
@@ -55,6 +58,7 @@ $ ./hello-world
 > Note: For the [Uppercaser](/code/x86-intel/uppercaser/uppercaser-mac.asm) program, you'll have to pass command line arguments (eg. `words to uppercase`) so your command might look like `./uppercaser words to uppercase`
 
 ### All together now!
+
 ```
 $ yasm -f macho64 hello-world.asm && ld hello-world.o -o hello-world -macosx_version_min 12.4 -L /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib -lSystem -no_pie && ./hello-world
 ```
@@ -90,7 +94,7 @@ section .text
   global _main
 ```
 
-We start our program in _main, where we [write "Hello World" out to the terminal](https://github.com/hackclub/some-assembly-required/blob/70ea2d8d882a58eebfb02a6ec516599f78e745c4/code/x86-intel/hello-world/hello-world.asm#L50-L55).
+We start our program in \_main, where we [write "Hello World" out to the terminal](https://github.com/hackclub/some-assembly-required/blob/70ea2d8d882a58eebfb02a6ec516599f78e745c4/code/x86-intel/hello-world/hello-world.asm#L50-L55).
 
 ```asm
 _main:
@@ -102,6 +106,7 @@ _main:
 ```
 
 We then [exit our program](https://github.com/hackclub/some-assembly-required/blob/70ea2d8d882a58eebfb02a6ec516599f78e745c4/code/x86-intel/hello-world/hello-world.asm#L57-L59).
+
 ```asm
   mov     rax, 0x2000001 ; system call for exit. anything with 0x2 is mac specific
   mov     rdi, 0 ; exit code 0
@@ -113,7 +118,7 @@ We then [exit our program](https://github.com/hackclub/some-assembly-required/bl
 For more common instructions, check out the [Stanford CS107 list](https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/guide/x86-64.html#common-instructions).
 
 | Instruction | Arguments | Explanation           |
-| ---         | ---       | ---                   |
+| ----------- | --------- | --------------------- |
 | **mov**     | dst, src  | dst = src             |
 | **add**     | dst, src  | dst += src            |
 | **sub**     | dst, src  | dst -= src            |
@@ -133,7 +138,7 @@ Registers in x86-64 are 64 bits.
 
 <p align="center">
   <br />
-  <img height="600" src="https://cloud-1dple0n1y-hack-club-bot.vercel.app/0screen_shot_2022-06-01_at_10.49.40_am.png">
+  <img height="600" src="https://cdn.hackclub.com/019c206c-5e30-734d-8f67-87b391685c83/image.png">
   <br />
   <span>
     <em>
@@ -144,36 +149,42 @@ Registers in x86-64 are 64 bits.
 <br />
 
 ## Resources
+
 _Here are some resources I ended up using while writing the programs in this section._
 
 #### The "Getting Started Writing Assembly Language" series
-  - https://blog.devgenius.io/getting-started-writing-assembly-language-8ecc116f3627
-  - https://blog.devgenius.io/finding-an-efficient-development-cycle-for-writing-assembly-language-be2092e6db6a
-  - https://blog.devgenius.io/writing-an-x86-64-assembly-language-program-648b6005e8e (ESPECIALLY this one, since it had a lot of the command line arg info, although some of it works differently on mac)
+
+- https://blog.devgenius.io/getting-started-writing-assembly-language-8ecc116f3627
+- https://blog.devgenius.io/finding-an-efficient-development-cycle-for-writing-assembly-language-be2092e6db6a
+- https://blog.devgenius.io/writing-an-x86-64-assembly-language-program-648b6005e8e (ESPECIALLY this one, since it had a lot of the command line arg info, although some of it works differently on mac)
 
 #### Guides
-  - https://cs61.seas.harvard.edu/site/2018/Asm1/
-  - https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture
-  - https://github.com/0xAX/asm
-  - https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/guide/x86-64.html
+
+- https://cs61.seas.harvard.edu/site/2018/Asm1/
+- https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture
+- https://github.com/0xAX/asm
+- https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/guide/x86-64.html
 
 #### Hello World
-  - https://gist.github.com/FiloSottile/7125822
-  - https://death-of-rats.github.io/posts/yasm-hello-world/
-  - https://dev.to/tomassirio/hello-world-in-asm-x8664-jg7
-  - https://jameshfisher.com/2018/03/10/linux-assembly-hello-world/
-  - https://cs.lmu.edu/~ray/notes/nasmtutorial/
-  - https://0xax.github.io/asm_1/
-  - https://rderik.com/blog/let-s-write-some-assembly-code-in-macos-for-intel-x86-64/
 
+- https://gist.github.com/FiloSottile/7125822
+- https://death-of-rats.github.io/posts/yasm-hello-world/
+- https://dev.to/tomassirio/hello-world-in-asm-x8664-jg7
+- https://jameshfisher.com/2018/03/10/linux-assembly-hello-world/
+- https://cs.lmu.edu/~ray/notes/nasmtutorial/
+- https://0xax.github.io/asm_1/
+- https://rderik.com/blog/let-s-write-some-assembly-code-in-macos-for-intel-x86-64/
 
 #### Command line params
-  - https://www.dreamincode.net/forums/topic/285550-nasm-linux-getting-command-line-parameters/
-  - https://stackoverflow.com/questions/53555298/how-to-get-arguments-from-the-command-lineassembly-nasm-ubuntu-32bit
+
+- https://www.dreamincode.net/forums/topic/285550-nasm-linux-getting-command-line-parameters/
+- https://stackoverflow.com/questions/53555298/how-to-get-arguments-from-the-command-lineassembly-nasm-ubuntu-32bit
 
 #### Syscalls
-  - https://filippo.io/making-system-calls-from-assembly-in-mac-os-x/
-  - http://dustin.schultz.io/mac-os-x-64-bit-assembly-system-calls.html
+
+- https://filippo.io/making-system-calls-from-assembly-in-mac-os-x/
+- http://dustin.schultz.io/mac-os-x-64-bit-assembly-system-calls.html
 
 #### Debugging
-  - https://stackoverflow.com/questions/52830484/nasm-cant-link-object-file-with-ld-on-macos-mojave
+
+- https://stackoverflow.com/questions/52830484/nasm-cant-link-object-file-with-ld-on-macos-mojave
