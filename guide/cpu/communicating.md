@@ -12,7 +12,7 @@ What do we mean by an abstraction? Well, an abstraction is a layer above somethi
 
 <p align="center">
   <br />
-  <img height="300" src="https://cloud-lrwvwyim3-hack-club-bot.vercel.app/0wheel.png">
+  <img height="300" src="https://cdn.hackclub.com/019c2054-f9c7-70f2-84b1-3d9ccfd9f55f/image.png">
 </p>
 <br />
 
@@ -30,7 +30,7 @@ It's like if you were an American and you were giving your Icelandic friend a ca
 
 <p align="center">
   <br />
-  <img src="https://cloud-r72u23edw-hack-club-bot.vercel.app/0recipe-resized.png">
+  <img src="https://cdn.hackclub.com/019c2055-f375-73ab-b8de-f1b53b518aa8/image.png">
 </p>
 <br />
 

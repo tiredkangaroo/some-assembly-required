@@ -6,7 +6,7 @@ In the physical world, these binary numbers map to electrical circuits. To simpl
 
 <p align="center">
   <br />
-  <img width="375" src="https://cloud-n4b1b7kn3-hack-club-bot.vercel.app/0conveyer2.png">
+  <img width="375" src="https://cdn.hackclub.com/019c205a-722c-71e4-8d98-0d93f00feff2/image.png">
 </p>
 <br />
 

@@ -8,7 +8,7 @@ When we ask the CPU to do something, we do that by way of an **instruction**. We
 
 <p align="center">
   <br />
-  <img height="250" src="https://cloud-5lw2nkej5-hack-club-bot.vercel.app/0cycle.png">
+  <img height="250" src="https://cdn.hackclub.com/019c2057-5454-73bf-8ab8-f9986f81b105/image.png">
 </p>
 
 ## Fetch
@@ -17,7 +17,7 @@ In the first phase, the CPU must fetch the instruction data from **memory**, so 
 
 <p align="center">
   <br />
-  <img height="400" src="https://cloud-o0rjdm5vl-hack-club-bot.vercel.app/0shelves.png">
+  <img height="400" src="https://cdn.hackclub.com/019c2058-0655-7f71-ba4e-97afe2da09c9/image.png">
 </p>
 <br />
 
@@ -29,7 +29,7 @@ Our box racks _(memory)_ has quite a bit of room to store our things - enough to
 
 <p align="center">
   <br />
-  <img height="250" src="https://cloud-9dq9biuyn-hack-club-bot.vercel.app/0cubbies.png">
+  <img height="250" src="https://cdn.hackclub.com/019c2058-8210-7a48-a101-92b8f19d56be/image.png">
 </p>
 
 Registers are where the CPU can store small pieces of data so that it can keep interacting with them. For example, let's say we need to add two numbers together.

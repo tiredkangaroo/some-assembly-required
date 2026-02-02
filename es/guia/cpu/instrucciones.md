@@ -8,7 +8,7 @@ Cuando le pedimos a la CPU que haga algo, lo hacemos mediante una instrucción. 
 
 <p align="center">
   <br />
-  <img height="250" src="https://cloud-5lw2nkej5-hack-club-bot.vercel.app/0cycle.png">
+  <img height="250" src="https://cdn.hackclub.com/019c2057-5454-73bf-8ab8-f9986f81b105/image.png">
 </p>
 
 ## Fetch
@@ -17,7 +17,7 @@ En la primera fase, la CPU debe obtener los datos de la instrucción de la **mem
 
 <p align="center">
   <br />
-  <img height="400" src="https://cloud-o0rjdm5vl-hack-club-bot.vercel.app/0shelves.png">
+  <img height="400" src="https://cdn.hackclub.com/019c2058-0655-7f71-ba4e-97afe2da09c9/image.png">
 </p>
 <br />
 
@@ -29,7 +29,7 @@ Nuestro almacén _(memoria)_ tiene bastante espacio para almacenar nuestras cosa
 
 <p align="center">
   <br />
-  <img height="250" src="https://cloud-9dq9biuyn-hack-club-bot.vercel.app/0cubbies.png">
+  <img height="250" src="https://cdn.hackclub.com/019c2058-8210-7a48-a101-92b8f19d56be/image.png">
 </p>
 
 Los registros son el lugar donde la CPU puede almacenar pequeños fragmentos de datos para poder seguir interactuando con ellos. Por ejemplo, supongamos que necesitamos sumar dos números.
