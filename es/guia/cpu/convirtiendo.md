@@ -73,8 +73,8 @@ Luego todo esto se ejecuta. La CPU envía el número `4` y el número almacenado
 
 <a href="instrucciones.md">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1bfb-91d7-7581-b82c-0c7880697c39/back.svg">
-    <img align="left" width="70" src="https://cdn.hackclub.com/019c1bfb-91d7-7581-b82c-0c7880697c39/back.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png">
+    <img align="left" width="70" src="https://cdn.hackclub.com/019c1b78-0beb-7c82-9479-51e12c90a5b4/image.png" />
   </picture>
 </a>
 
