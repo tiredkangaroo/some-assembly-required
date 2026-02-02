@@ -21,7 +21,7 @@ Let's walk through these logical operations, they're actually quite simple!
 
 ## AND
 
-<img height="75" src="https://cloud-6sy33924f-hack-club-bot.vercel.app/0and.png">
+<img height="75" src="https://cdn.hackclub.com/019c1f0b-6e97-7ace-b6c6-310850c1675d/image.png">
 
 This image is a representation of an <code>AND</code> logic gate, where the inputs are the wires on the left and the result is the wire coming out of the right.
 
@@ -36,7 +36,7 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 ## OR
 
-<img height="75" src="https://cloud-m3gro1bsz-hack-club-bot.vercel.app/0or.png">
+<img height="75" src="https://cdn.hackclub.com/019c1f0c-1108-7872-b9c1-f4b38aa9a722/image.png">
 
 `OR` is always true unless both of the inputs are false.
 
@@ -49,7 +49,7 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 ## NOT
 
-<img height="75" src="https://cloud-gc5ntwfp3-hack-club-bot.vercel.app/0not.png">
+<img height="75" src="https://cdn.hackclub.com/019c1f0c-be6a-7e47-9bb5-8f669741746a/image.png">
 
 `NOT` only requires a single input, and it flips the input.
 
@@ -60,7 +60,7 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 ## NAND
 
-<img height="75" src="https://cloud-6kz6e5s0t-hack-club-bot.vercel.app/0nand.png">
+<img height="75" src="https://cdn.hackclub.com/019c1f0d-6828-78ef-a0b5-4925ff12e328/image.png">
 
 `NAND` is always true unless both inputs are true. `NAND` is the opposite of `AND`.
 
@@ -87,7 +87,7 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 ## NOR
 
-<img height="75" src="https://cloud-j6qrpnbsy-hack-club-bot.vercel.app/0nor.png">
+<img height="75" src="https://cdn.hackclub.com/019c1f0e-2319-7eee-9a37-29d57e3c94d0/image.png">
 
 `NOR` is always false unless both inputs are false. `NOR` is the opposite of `OR`.
 
@@ -100,7 +100,7 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 ## XOR
 
-<img height="75" src="https://cloud-3wsvzk7wf-hack-club-bot.vercel.app/0xor.png">
+<img height="75" src="https://cdn.hackclub.com/019c1f0f-6f72-7896-815c-46bd74978061/image.png">
 
 `XOR` is true if the inputs are different, false if they're the same.
 
@@ -113,7 +113,7 @@ This image is a representation of an <code>AND</code> logic gate, where the inpu
 
 ## XNOR
 
-<img height="75" src="https://cloud-emvf8qkr5-hack-club-bot.vercel.app/0xnor.png">
+<img height="75" src="https://cdn.hackclub.com/019c1f0f-e9bf-7bdb-a885-783e5f242fac/image.png">
 
 `XNOR` is true if the inputs are the same, false if they're different. `XNOR` is the opposite of `XOR`.
 
@@ -130,7 +130,7 @@ Now that you know about all the different boolean functions, check this out!
 
 <p align="center">
   <br />
-  <img height="250" src="https://cloud-rfdol75q1-hack-club-bot.vercel.app/0adder.png">
+  <img height="250" src="https://cdn.hackclub.com/019c1f0e-c583-72c2-a7de-7f4f72b0394f/image.png">
 </p>
 <br />
 

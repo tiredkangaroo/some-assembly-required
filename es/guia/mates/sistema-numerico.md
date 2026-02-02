@@ -8,7 +8,7 @@ Pero en realidad, los números en los que tú y yo pensamos (1, 2, 3, etc.) son 
 
 <p align="center">
   <br />
-  <img height="250" src="https://cloud-qs4ujxdmd-hack-club-bot.vercel.app/0hands.png">
+  <img height="250" src="https://cdn.hackclub.com/019c1f10-dc0c-7835-8d33-037acf5c9209/image.png">
   <br />
   <span>
     <em>
